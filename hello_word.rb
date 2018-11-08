@@ -7,3 +7,4 @@ name = gets.chomp
 puts "Witaj, " + name + "!"
 # test
 # test1
+#test2
